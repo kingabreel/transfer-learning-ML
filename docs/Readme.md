@@ -1,4 +1,4 @@
-# Aula 01
+# Aula 01 - Introdução
 
 Links Úteis 
 Separamos aqui alguns materiais complementares como artigos, apostilas, apresentações, entre outros. Esses materiais serão úteis para você se aprofundar ainda mais nos principais temas deste Módulo, listados a seguir:
@@ -19,7 +19,7 @@ Redes Neurais Artificiais:
 
 https://www.inf.ufsc.br/~j.barreto/tutoriais/Survey.pdf  
 
-# Aula 02
+# Aula 02 - Linguagens
 
 Python  
 
@@ -45,7 +45,7 @@ https://petmecanica.ufes.br/sites/petengenhariamecanica.ufes.br/files/field/anex
 
 https://cepein.femanet.com.br/BDigital/arqTccs/1511420380.pdf 
 
-# Aula 03
+# Aula 03 - Treinamento
 
 Treinamento supervisionado
 
@@ -78,7 +78,7 @@ https://www.creasp.org.br/arquivos/revista/revista1_artigo6_-_Implementacao.pdf
 https://web.icmc.usp.br/SCATUSU/RT/BIBLIOTECA_113_RT_197.pdf 
 
 
-# Aula 04
+# Aula 04 - Métodos de otimização
 Slides
 A pasta com toda as apresentações utilizadas neste módulo está disponível:
 https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FMachine%20Learning%2FModulo%20IV&ga=1
